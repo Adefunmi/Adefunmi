@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adefunmi.
+- 👋 Hi, I’m Tofunmi Adekanye.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Frontend Engineering.
 - 💞️ I’m looking to collaborate with people who will assist me in acheiving my dreams.
